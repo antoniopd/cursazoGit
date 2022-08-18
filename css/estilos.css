@@ -2,4 +2,8 @@ body{
     background-color: blueviolet;
     font-weight: bold;
     color: aquamarine;
+   text-align: justify;
+    font-style: oblique;
+    padding-left: 5%;
+       
 }
